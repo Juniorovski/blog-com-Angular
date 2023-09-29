@@ -1,0 +1,32 @@
+.container_big-card{
+  display:flex;
+  width: 400px;
+  height: 500px;
+  align-items:flex-start;
+  flex-direction: column;
+  margin-left: 70px;
+
+  margin-top: 45px;
+}
+
+.container_big-card h1{
+ font-size: 1.4rem;
+ text-align: start;
+ margin-top: 10px;
+}
+.big-card_autor span{
+  color: #8f8c8cc1;
+  font-size: 0.7rem;
+}
+.big-card_description p a{
+  color: #8f8c8cc1;
+  font-size: 1.0rem;
+  text-align:start;
+  margin-top: 10px;
+}
+.big_card img{
+ width:100%;
+ height: 300px;
+ box-sizing: border-box;
+}
+

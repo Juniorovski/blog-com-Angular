@@ -1,0 +1,37 @@
+.container_small-card{
+  display: flex;
+  justify-content: center;
+  align-items:flex-start;
+  margin-left: 45px;
+  margin-top: 45px;
+  margin-bottom: 10px;
+
+}
+.small-card_foto img{
+  max-width: 200px;
+  width: 200px;
+  max-height: 120px;
+  height: 120px;
+
+}
+.small-card h2{
+  margin-left: 10px;
+  font-size: 1.4rem;
+  cursor: pointer;
+}
+.small-card{
+  flex-direction: row;
+  align-items: flex-start;
+
+}
+.small-card  p {
+  margin-left: 10px;
+  color: #8f8c8cc1;
+  font-size: 0.7rem;
+}
+.divisor hr{
+  margin-left: 45px;
+  color:#474545c9;
+  
+}
+
